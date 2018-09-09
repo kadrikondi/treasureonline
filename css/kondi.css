@@ -1,0 +1,20 @@
+#hidemenu{
+
+}
+
+.navcard{
+    display: block;
+    color: #fff !important;
+}
+#mainnav{
+    background-color: #04091e !important;
+    color: #fff !important ;
+    opacity: 0.6;
+
+
+}
+
+ul li a{
+    color: #fff !important;
+
+}
